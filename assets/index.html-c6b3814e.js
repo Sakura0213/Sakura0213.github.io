@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as n,a as e,b as o}from"./app-68fdd6a5.js";const s={},_=e("p",null,[o("应该貌似大概是一个二次元 "),e("s",null,"纯度不高")],-1),a=[_];function l(r,d){return c(),n("div",null,a)}const f=t(s,[["render",l],["__file","index.html.vue"]]);export{f as default};
